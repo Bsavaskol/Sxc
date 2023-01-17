@@ -33,7 +33,7 @@ reportusername = ''
 reportpassword = ''
 name = ''
 
-bottoken = "OTM5OTg3MjYwOTk"
+bottoken = "5oo4bFBhPd_PVQUZYmpTSnylSEFV9fea"
 proxies = {
     "http": "http://142.202.220.242:2874/",
     "https": "http://142.202.220.242:2874/"
